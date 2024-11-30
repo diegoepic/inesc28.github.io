@@ -44,7 +44,7 @@ body {
   text-align: center;
   font-size: 50px;
   background: radial-gradient(
-      farthest-side at 100% in lch shorter hue,
+      farthest-side at 50% 100% in lch shorter hue,
       #000000ff 0%,
       #32004dff 100%
     ),

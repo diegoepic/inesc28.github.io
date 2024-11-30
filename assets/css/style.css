@@ -6,7 +6,7 @@ body {
   height: 100%;
   margin: 0;
   font-family: "Archivo Black", sans-serif;
-  background-image: url(/inesc28.github.io/assets/img/aaabstractt.webp);
+  background-image: url(/assets/img/aaabstractt.webp);
 }
 
 .navbar-brand {
@@ -44,7 +44,7 @@ body {
   text-align: center;
   font-size: 50px;
   background: radial-gradient(
-      farthest-side at 50% 100% in lch shorter hue,
+      farthest-side at 100% in lch shorter hue,
       #000000ff 0%,
       #32004dff 100%
     ),
@@ -120,7 +120,6 @@ body {
     );
   background-blend-mode: overlay;
   margin-top: 50px;
-  padding: 200px;
 }
 
 .contain {
@@ -129,7 +128,7 @@ body {
     background-blend-mode: overlay;
     color: aliceblue;
     text-align: center;
-    padding: 200px;
+    padding: 100px;
   }
 
 h3 {
@@ -142,6 +141,7 @@ h3 {
 }
 
 footer {
+  width: 100%;
   text-align: center;
   color: rgb(0, 0, 0);
   padding: 15px;

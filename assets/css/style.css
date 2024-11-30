@@ -122,6 +122,12 @@ body {
   margin-top: 50px;
 }
 
+.contain-ex {
+  background-color: rgba(127, 123, 123, 0.249);
+  color: azure;
+  text-align: center;
+}
+
 .contain {
     width: 100%;
     background-image: url(/assets/img/aaabstractt.webp);
